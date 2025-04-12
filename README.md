@@ -36,8 +36,7 @@ Database: (To be added – MongoDB / MySQL / Firebase etc.)
 📱 Social Links
 WhatsApp
 https://wa.me/916201635698?text=Hi%20Umang%2C%20I%20got%20your%20WhatsApp%20link!
-📸 Screenshots
-Will be added soon as the UI progresses
+
 
 🙌 Author
 Umang Mathur
